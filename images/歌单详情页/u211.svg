@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="27px" height="27px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip59">
+    <mask fill="white" id="clip199">
       <path d="M 166.5 70  C 159.0075 70  153 63.9925  153 56.5  L 153 56.5  C 153 49.0075  159.0075 43  166.5 43  L 166.5 43  C 173.9925 43  180 49.0075  180 56.5  L 180 56.5  C 180 63.9925  173.9925 70  166.5 70  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -153 -43 )">
-    <path d="M 153 43  L 180 43  L 180 70  L 153 70  L 153 43  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip59)" />
-    <path d="M 155 45  L 178 45  L 178 68  L 155 68  L 155 45  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip59)" />
-    <path d="M 169.065 51.1  C 167.931 51.1  167.04 50.209  167.04 49.075  C 167.04 47.941  167.931 47.05  169.065 47.05  C 170.199 47.05  171.09 47.941  171.09 49.075  C 171.09 50.209  170.199 51.1  169.065 51.1  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip59)" />
-    <path d="M 156 68  L 156 55.9  L 161.5 50.4  L 169.2 54.8  L 173.6 53.7  L 178 54.8  L 178 68  L 156 68  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip59)" />
+    <path d="M 153 43  L 180 43  L 180 70  L 153 70  L 153 43  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip199)" />
+    <path d="M 155 45  L 178 45  L 178 68  L 155 68  L 155 45  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip199)" />
+    <path d="M 169.065 51.1  C 167.931 51.1  167.04 50.209  167.04 49.075  C 167.04 47.941  167.931 47.05  169.065 47.05  C 170.199 47.05  171.09 47.941  171.09 49.075  C 171.09 50.209  170.199 51.1  169.065 51.1  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip199)" />
+    <path d="M 156 68  L 156 55.9  L 161.5 50.4  L 169.2 54.8  L 173.6 53.7  L 178 54.8  L 178 68  L 156 68  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip199)" />
   </g>
 </svg>

@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="120px" height="120px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="8px" height="13px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip67">
-      <path d="M 25 416  C 22.78 416  21 414.22  21 412  L 21 300  C 21 297.78  22.78 296  25 296  L 137 296  C 139.22 296  141 297.78  141 300  L 141 412  C 141 414.22  139.22 416  137 416  " fill-rule="evenodd" />
+    <mask fill="white" id="clip208">
+      <path d="M 0.320000000000005 11.8857142857142  L 0.320000000000005 0.185714285714328  L 7.35999999999999 6.68571428571433  L 0.320000000000005 11.8857142857142  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -21 -296 )">
-    <path d="M 21 296  L 141 296  L 141 416  L 21 416  L 21 296  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip67)" />
-    <path d="M 29 304  L 133 304  L 133 408  L 29 408  L 29 304  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip67)" />
-    <path d="M 92.4 332  C 87.36 332  83.4 328.04  83.4 323  C 83.4 317.96  87.36 314  92.4 314  C 97.44 314  101.4 317.96  101.4 323  C 101.4 328.04  97.44 332  92.4 332  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip67)" />
-    <path d="M 32 405  L 32 351.1  L 56.5 326.6  L 90.8 346.2  L 110.4 341.3  L 130 346.2  L 130 405  L 32 405  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip67)" />
+  <g transform="matrix(1 0 0 1 -105 -299 )">
+    <path d="M 0.320000000000005 11.8857142857142  L 0.320000000000005 0.185714285714328  L 7.35999999999999 6.68571428571433  L 0.320000000000005 11.8857142857142  Z " fill-rule="nonzero" fill="#7f7f7f" stroke="none" fill-opacity="0" transform="matrix(1 0 0 1 105 299 )" />
+    <path d="M 0.320000000000005 11.8857142857142  L 0.320000000000005 0.185714285714328  L 7.35999999999999 6.68571428571433  L 0.320000000000005 11.8857142857142  Z " stroke-width="2" stroke="#aaaaaa" fill="none" transform="matrix(1 0 0 1 105 299 )" mask="url(#clip208)" />
   </g>
 </svg>
